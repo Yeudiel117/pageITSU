@@ -1,0 +1,63 @@
+<div id="carouselExampleCaptions" class="carousel slide " data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+                <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" aria-label="Slide 7"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <a href="A.php"> <img src="./Multimedia/Imagenes/IyR.png" class="d-block w-100" alt=""> </a>
+                    <div class="carousel-caption d-none d-md-block CarruselE">
+                        <h5>Solicitar tú inscripción o reinscripción a la institución</h5>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <a href="#"> <img src="./Multimedia/Imagenes/ScE.png" class="d-block w-100" alt=""> </a>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Solicita un curso epecial de alguna materia</h5>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <a href="#"> <img src="./Multimedia/Imagenes/AdM.png" class="d-block w-100" alt=""> </a>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Realiza un alta de materias</h5>
+                    </div>
+                </div>
+                <div class="carousel-item ">
+                    <a href="#"> <img src="./Multimedia/Imagenes/BdM.png" class="d-block w-100" alt=""> </a>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Realiza una baja de materias</h5>
+                    </div>
+                </div>
+                <div class="carousel-item ">
+                    <a href="#"> <img src="./Multimedia/Imagenes/ChA.png" class="d-block w-100" alt=""> </a>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Consulta tú historial académico (KARDEX)</h5>
+                    </div>
+                </div>
+                <div class="carousel-item ">
+                    <a href="#"> <img src="./Multimedia/Imagenes/BaT.png" class="d-block w-100" alt=""> </a>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Realiza una baja temporal</h5>
+                    </div>
+                </div>
+                <div class="carousel-item ">
+                    <a href="#"> <img src="./Multimedia/Imagenes/BaD.png" class="d-block w-100" alt=""> </a>
+                    <div class="carousel-caption d-none d-md-block">
+                        <h5>Realiza tú baja definitiva</h5>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>

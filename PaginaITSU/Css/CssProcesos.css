@@ -1,0 +1,47 @@
+  /*Proceso 1*/
+
+ body{
+    background-color: #1b456e;
+ }
+
+ .SecContenido{
+    margin-left: auto;
+    margin-right: auto;
+    
+    height: auto;
+    min-height: 800px;
+    width: 90%;
+
+    background-color: aliceblue;
+    border-radius: 15px;
+    
+ }
+
+
+ .Titulo{
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 300px;
+    font-size: 40px;
+    font-weight: bolder;
+ }
+
+ .mainE{
+     padding-left: 5%;
+ }
+
+ .SeccComent{
+   
+     padding-top: 3%;
+     padding-left: 3%;
+     padding-right: 3%;
+
+ }
+
+ .tamanoinput{
+    width: 1000px 
+   }
+
+
+
